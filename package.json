@@ -1,5 +1,5 @@
 {
-  "name": "@bigfishgames-opensource/bf-premeng-pwa-language-packs",
+  "name": "bf-premeng-pwa-language-packs",
   "version": "1.0.0",
   "publishConfig": {
     "access": "public"
