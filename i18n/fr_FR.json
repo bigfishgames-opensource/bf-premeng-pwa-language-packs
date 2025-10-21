@@ -764,6 +764,7 @@
   "reviews.form.advantages": "Avantages",
   "reviews.form.disadvantages": "Inconvénients",
   "reviews.form.recommendProduct": "Je recommande ce produit",
+  "reviews.form.reviewingProduct": "Vous évaluez : {productName}",
   "reviews.form.submitReview": "Soumettre l'avis",
   "reviews.form.successMessage": "Vous avez soumis votre avis pour modération.",
   "reviews.form.signInMessage": "Seuls les utilisateurs enregistrés peuvent écrire des avis. Veuillez ",

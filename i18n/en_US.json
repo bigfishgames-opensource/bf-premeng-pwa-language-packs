@@ -765,6 +765,7 @@
   "reviews.form.advantages": "Advantages",
   "reviews.form.disadvantages": "Disadvantages",
   "reviews.form.recommendProduct": "I recommend this product",
+  "reviews.form.reviewingProduct": "You're reviewing: {productName}",
   "reviews.form.submitReview": "Submit review",
   "reviews.form.successMessage": "You submitted your review for moderation.",
   "reviews.form.signInMessage": "Only registered users can write reviews. Please ",

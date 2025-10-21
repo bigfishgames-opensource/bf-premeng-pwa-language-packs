@@ -768,6 +768,7 @@
   "reviews.form.advantages": "Vorteile",
   "reviews.form.disadvantages": "Nachteile",
   "reviews.form.recommendProduct": "Ich empfehle dieses Produkt",
+  "reviews.form.reviewingProduct": "Sie bewerten: {productName}",
   "reviews.form.submitReview": "Bewertung abschicken",
   "reviews.form.successMessage": "Sie haben Ihre Bewertung zur Moderation eingereicht.",
   "reviews.form.signInMessage": "Nur registrierte Benutzer können Bewertungen schreiben. Bitte ",
