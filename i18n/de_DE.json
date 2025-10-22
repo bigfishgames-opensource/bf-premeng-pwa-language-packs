@@ -43,6 +43,7 @@
   "accountInformationPage.accountInformation": "Kontoinformationen",
   "accountInformationPage.editAccount": "Kontoinformationen bearbeiten",
   "accountInformationPage.errorTryAgain": "Etwas ist schief gelaufen. Bitte aktualisieren und erneut versuchen.",
+  "accountInformationPage.noLastNameSet": "Kein Nachname festgelegt",
   "accountInformationPage.noUsernameSet": "Kein Benutzername festgelegt",
   "accountInformationPage.titleAccount": "Kontoinformationen",
   "accountMenu.accountInfoLink": "Kontoinformationen",
