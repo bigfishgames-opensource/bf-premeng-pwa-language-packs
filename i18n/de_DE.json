@@ -512,6 +512,7 @@
   "global.streetAddress2": "Adresszeile 2",
   "global.streetAddressRequired": "Straßenadresse erforderlich",
   "global.updateButton": "Aktualisieren",
+  "global.username": "Benutzername",
   "guestForm.continueToNextStep": "Weiter zur Versandart",
   "guestForm.emailMessage": "Legen Sie am Ende der Gast-Kasse ein Passwort fest, um in einem einfachen Schritt ein Konto zu erstellen.",
   "header.companyLink": "Unternehmen",

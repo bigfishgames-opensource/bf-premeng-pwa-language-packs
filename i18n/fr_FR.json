@@ -508,6 +508,7 @@
   "global.streetAddress2": "Adresse 2",
   "global.streetAddressRequired": "Adresse de rue requise",
   "global.updateButton": "Mettre à jour",
+  "global.username": "Nom d'utilisateur",
   "guestForm.continueToNextStep": "Continuer vers la méthode d'expédition",
   "guestForm.emailMessage": "Définissez un mot de passe à la fin du paiement des invités pour créer un compte en une seule étape.",
   "header.companyLink": "Entreprise",
