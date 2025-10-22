@@ -39,6 +39,7 @@
   "accountInformationPage.accountInformation": "Informations sur le compte",
   "accountInformationPage.editAccount": "Modifier les informations du compte",
   "accountInformationPage.errorTryAgain": "Un problème est survenu. Veuillez actualiser et réessayer.",
+  "accountInformationPage.noUsernameSet": "Aucun nom d'utilisateur défini",
   "accountInformationPage.titleAccount": "Information sur le compte",
   "accountMenu.accountInfoLink": "Information sur le compte",
   "accountMenu.addressBookLink": "Carnet d'adresses",

@@ -43,6 +43,7 @@
   "accountInformationPage.accountInformation": "Account Information",
   "accountInformationPage.editAccount": "Edit Account Information",
   "accountInformationPage.errorTryAgain": "Something went wrong. Please refresh and try again.",
+  "accountInformationPage.noUsernameSet": "No username set",
   "accountInformationPage.titleAccount": "Account Information",
   "accountMenu.accountInfoLink": "Account Information",
   "accountMenu.addressBookLink": "Address Book",
