@@ -1,6 +1,6 @@
 {
   "name": "bf-premeng-pwa-language-packs",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "publishConfig": {
     "access": "public"
   },

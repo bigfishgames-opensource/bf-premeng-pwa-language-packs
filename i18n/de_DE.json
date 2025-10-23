@@ -810,6 +810,7 @@
   "savedPaymentsPage.addSavedPaymentDescription": "Um eine neue Zahlungsmethode hinzuzufügen, aktivieren Sie einfach die Option „Für zukünftige Zahlvorgänge speichern“, wenn Sie Ihren nächsten Einkauf mit dieser Karte tätigen.",
   "savedPaymentsPage.confirmDelete": "Möchten Sie diese Zahlungsmethode wirklich löschen?",
   "savedPaymentsPage.creditCard.errorRemoving": "Beim Abrufen deiner Kontoinformationen ist ein Problem aufgetreten. Bitte aktualisieren und erneut versuchen.",
+  "savedPaymentsPage.creditCard.errorShowing": "Beim Abrufen dieser Zahlungsmethode ist ein Problem aufgetreten. Bitte aktualisieren und erneut versuchen.",
   "savedPaymentsPage.noSavedPayments": "Keine hinterlegten Zahlungsarten",
   "savedPaymentsPage.subHeading": "Hier gespeicherte Kreditkarten stehen an der Kasse zur Verfügung.",
   "savedPaymentsPage.title": "Gespeicherte Zahlungsarten",

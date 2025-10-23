@@ -806,6 +806,7 @@
   "savedPaymentsPage.addSavedPaymentDescription": "Pour ajouter un nouveau mode de paiement, cochez l'option « Sauvegarder pour mon prochain paiement » lorsque vous effectuez votre prochain achat avec cette carte.",
   "savedPaymentsPage.confirmDelete": "Voulez-vous vraiment supprimer ce mode de paiement?",
   "savedPaymentsPage.creditCard.errorRemoving": "Nous avons des difficultés à récupérer les informations de votre compte. Veuillez actualiser la page et réessayer.",
+  "savedPaymentsPage.creditCard.errorShowing": "Un problème est survenu lors de la récupération de ce mode de paiement. Veuillez actualiser et réessayer.",
   "savedPaymentsPage.noSavedPayments": "Aucun mode de paiement enregistré",
   "savedPaymentsPage.subHeading": "Les cartes de crédit enregistrées ici seront disponibles lors du paiement.",
   "savedPaymentsPage.title": "Moyens de Paiement Enregistrés",

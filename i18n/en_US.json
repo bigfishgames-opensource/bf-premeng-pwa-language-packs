@@ -808,6 +808,7 @@
   "savedPaymentsPage.addSavedPaymentDescription": "To add a new payment method, check the \"Save for my next payment\" option when you make your next purchase using that card.",
   "savedPaymentsPage.confirmDelete": "Are you sure you want to delete this payment method?",
   "savedPaymentsPage.creditCard.errorRemoving": "Something went wrong deleting this payment method. Please refresh and try again.",
+  "savedPaymentsPage.creditCard.errorShowing": "Something went wrong fetching this payment method. Please refresh and try again.",
   "savedPaymentsPage.noSavedPayments": "You have no saved payments.",
   "savedPaymentsPage.title": "Stored Payment Methods",
   "searchBar.heading": "Product Suggestions",
