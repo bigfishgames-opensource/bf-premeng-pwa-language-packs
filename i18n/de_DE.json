@@ -949,5 +949,7 @@
   "wishlistPage.disabledMessage": "Entschuldigung, diese Funktion wurde deaktiviert.",
   "wishlistPage.fetchErrorMessage": "Etwas ist schief gelaufen. Bitte aktualisieren und erneut versuchen.",
   "wishlistPage.headingText": "Favoritenlisten",
-  "wishlistPage.wishlistDisabledMessage": "Die Wunschliste ist derzeit nicht verfügbar."
+  "wishlistPage.wishlistDisabledMessage": "Die Wunschliste ist derzeit nicht verfügbar.",
+  "searchPage.searchGames": "Spiele suchen",
+  "searchPage.searchPlatformGames": "Suche nach {platform}-Spielen"
 }
