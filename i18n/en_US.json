@@ -432,7 +432,7 @@
   "gameClubUpsell.reactivateTitle": "Reactivate Game Club and start saving 30% on all games!",
   "gameClubUpsell.verified.content": "Complete your purchase to start your Game Club Membership! Once your transaction has been processed, this game will be available for purchase.",
   "genreListPage.title": "Shop by genre",
-  "genreList.title": "All genres",
+  "genreList.title": "All {platform} genres",
   "genreList.loading": "Loading...",
   "genreList.error": "Error! {error.message}",
   "genreList.empty": "No genre found.",

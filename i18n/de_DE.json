@@ -335,7 +335,7 @@
   "formSubmissionSuccessful.textMessage": "Wenn ein Konto mit {email} verknüpft ist, erhalten Sie eine E-Mail mit einem Link zum Ändern Ihres Passworts.",
   "galleryItem.unavailableProduct": "Derzeit nicht zum Kauf verfügbar.",
   "genreListPage.title": "Nach genre einkaufen",
-  "genreList.title": "Alle genres",
+  "genreList.title": "Alle {platform}-genres",
   "genreList.loading": "Laden...",
   "genreList.error": "Fehler! {error.message}",
   "genreList.empty": "Kein genre gefunden.",
