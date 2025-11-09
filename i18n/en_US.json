@@ -712,7 +712,7 @@
   "pointsPage.table.header.id": "ID",
   "pointsPage.table.header.points": "Points",
   "pointsPage.table.header.transactionDate": "Date",
-  "pointsPage.title": "Big Fish Points",
+  "pointsPage.title": "My Big Fish Points",
   "pointsPage.youHaveCurrency": "It can be redeemed for <currencyBalance>{balance}</currencyBalance> at checkout",
   "pointsPage.youHavePoints": "Your current balance is <balance>{points}</balance> points",
   "postcode.label": "ZIP / Postal Code",

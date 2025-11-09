@@ -712,7 +712,7 @@
   "pointsPage.table.header.id": "Identifiant",
   "pointsPage.table.header.points": "Points",
   "pointsPage.table.header.transactionDate": "Date",
-  "pointsPage.title": "Points Big Fish",
+  "pointsPage.title": "Mes Points Big Fish",
   "pointsPage.youHaveCurrency": "Échangeable pour <currencyBalance>{balance}</currencyBalance> à la caisse",
   "pointsPage.youHavePoints": "Votre solde de points actuel est de <balance>{points}</balance>",
   "postcode.label": "Code postal",

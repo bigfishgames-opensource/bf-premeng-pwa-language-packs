@@ -716,7 +716,7 @@
   "pointsPage.table.header.id": "Identifikation",
   "pointsPage.table.header.points": "Points",
   "pointsPage.table.header.transactionDate": "Datum",
-  "pointsPage.title": "Big Fish Points",
+  "pointsPage.title": "Meine Big Fish Points",
   "pointsPage.youHaveCurrency": "Es kann an der Kasse für <currencyBalance>{balance}</currencyBalance> eingelöst werden",
   "pointsPage.youHavePoints": "Ihr aktueller Kontostand beträgt <balance>{points}</balance> Punkte",
   "postcode.label": "Postleitzahl",
