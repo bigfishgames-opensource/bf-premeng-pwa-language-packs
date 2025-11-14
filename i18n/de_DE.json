@@ -1049,6 +1049,6 @@
   "wishlistMoreActionsDialog.title": "Aktionen",
   "wishlistPage.disabledMessage": "Entschuldigung, diese Funktion wurde deaktiviert.",
   "wishlistPage.fetchErrorMessage": "Etwas ist schief gelaufen. Bitte aktualisieren und erneut versuchen.",
-  "wishlistPage.headingText": "Meine Favoriten",
+  "wishlistPage.headingText": "Meine Wunschliste",
   "wishlistPage.wishlistDisabledMessage": "Die Wunschliste ist derzeit nicht verfügbar."
 }

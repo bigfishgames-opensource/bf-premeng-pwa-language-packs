@@ -1043,6 +1043,6 @@
   "wishlistMoreActionsDialog.title": "Actions",
   "wishlistPage.disabledMessage": "Sorry, this feature has been disabled.",
   "wishlistPage.fetchErrorMessage": "Something went wrong. Please refresh and try again.",
-  "wishlistPage.headingText": "My Favorites",
+  "wishlistPage.headingText": "My Wishlist",
   "wishlistPage.wishlistDisabledMessage": "The wishlist is not currently available."
 }
